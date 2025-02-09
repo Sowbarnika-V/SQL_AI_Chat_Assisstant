@@ -82,7 +82,7 @@ sqlite3
 llama-cpp-python
 
 
-Install all dependencies using:
+**Install all dependencies using:**
 
 
 pip install -r requirements.txt
