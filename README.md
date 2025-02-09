@@ -73,3 +73,16 @@ streamlit run code.py
 ✅Used to execute SQL queries
 
 
+## 📦 Requirements (requirements.txt)
+
+streamlit
+
+sqlite3
+
+llama-cpp-python
+
+
+Install all dependencies using:
+
+
+pip install -r requirements.txt
