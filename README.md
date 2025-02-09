@@ -86,3 +86,9 @@ llama-cpp-python
 
 
 pip install -r requirements.txt
+
+## 📸 Screenshot  
+
+![UI Preview](assets/screenshot.png)
+
+
