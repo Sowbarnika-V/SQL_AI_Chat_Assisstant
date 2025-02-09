@@ -89,7 +89,7 @@ pip install -r requirements.txt
 
 ## 📸 Screenshot  
 
-![UI Preview](https:/github.com/Sowbarnika-V/SQL_AI_Chat_Assisstant/blob/main/Screenshot (150).png)
+![UI Preview] (https:/github.com/Sowbarnika-V/SQL_AI_Chat_Assisstant/blob/main/Screenshot (150).png)
 
 
 
