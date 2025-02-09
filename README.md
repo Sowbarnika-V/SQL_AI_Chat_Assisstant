@@ -89,7 +89,8 @@ pip install -r requirements.txt
 
 ## 📸 Screenshot  
 
-![UI Preview] (Screenshot (150).png)
+![Uploading Screenshot (150).png…]()
+
 
 
 
