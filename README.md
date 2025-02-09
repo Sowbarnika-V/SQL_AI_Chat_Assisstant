@@ -89,7 +89,8 @@ pip install -r requirements.txt
 
 ## 📸 Screenshot  
 
-![Uploading Screenshot (150).png…]()
+![Screenshot (150)](https://github.com/user-attachments/assets/64f27750-945c-4a92-ac18-32f1593bd6ef)
+
 
 
 
